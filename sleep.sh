@@ -6,3 +6,4 @@ do
 	echo 0 > /sys/class/leds/user/brightness
 	sleep 0.5
 done
+test
